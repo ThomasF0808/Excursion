@@ -1,0 +1,42 @@
+html{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+
+header h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+body {
+    background-color: black;
+}
+
+.camp h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+
+.camp p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+.soon h1{
+    font-size: 42px;
+}
+
+footer {
+    text-align: right;
+}
